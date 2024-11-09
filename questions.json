@@ -1,0 +1,298 @@
+{
+  "heading": "Sentence Structure",
+  "topics": [
+    {
+      "heading": "Sentence, Fragment, and Run-on",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Which of the following is a complete sentence?",
+          "options": [
+            "A) Jumped over the lazy dog.",
+            "B) The quick brown fox.",
+            "C) The quick brown fox jumped over the lazy dog.",
+            "D) Over the lazy dog."
+          ],
+          "answer": 2,
+          "explanation": "This is a complete sentence because it has both a subject (The quick brown fox) and a predicate (jumped over the lazy dog). It expresses a complete thought."
+        },
+        {
+          "questionNo": 2,
+          "question": "Identify the fragment:",
+          "options": [
+            "A) The sun rises in the east.",
+            "B) Every morning at dawn.",
+            "C) Birds chirp loudly.",
+            "D) Clouds float in the sky."
+          ],
+          "answer": 1,
+          "explanation": "This is a fragment because it lacks both a subject and a verb. It's just a time phrase and doesn't express a complete thought."
+        },
+        {
+          "questionNo": 3,
+          "question": "Which sentence is a run-on?",
+          "options": [
+            "A) I woke up early I made breakfast.",
+            "B) I woke up early, and I made breakfast.",
+            "C) I woke up early. I made breakfast."
+          ],
+          "answer": 0,
+          "explanation": "This is a run-on because it combines two independent clauses without proper punctuation or a connecting word."
+        },
+        {
+          "questionNo": 4,
+          "question": "How can you fix this fragment: \"Riding a bicycle\"?",
+          "options": [
+            "A) Add a full stop at the end.",
+            "B) Add a subject and verb: \"John is riding a bicycle.\"",
+            "C) Remove \"a bicycle.\"",
+            "D) Change \"riding\" to \"rode.\""
+          ],
+          "answer": 1,
+          "explanation": "Adding a subject (John) and a helping verb (is) turns this fragment into a complete sentence by providing who is performing the action."
+        },
+        {
+          "questionNo": 5,
+          "question": "Identify the complete sentence:",
+          "options": [
+            "A) After the rain stopped.",
+            "B) Suddenly, without warning.",
+            "C) The rainbow appeared in the sky.",
+            "D) Beautiful colour arching."
+          ],
+          "answer": 2,
+          "explanation": "This is a complete sentence with a subject (The rainbow) and a predicate (appeared in the sky). It expresses a complete thought."
+        },
+        {
+          "questionNo": 6,
+          "question": "Which is a fragment?",
+          "options": [
+            "A) The cake tastes delicious.",
+            "B) She baked it yesterday.",
+            "C) With chocolate frosting.",
+            "D) Everyone enjoyed a slice of the cake."
+          ],
+          "answer": 2,
+          "explanation": "This is a fragment because it's a prepositional phrase without a subject or verb. It doesn't express a complete thought on its own."
+        },
+        {
+          "questionNo": 7,
+          "question": "How can you fix this fragment: \"Because the car broke down\"?",
+          "options": [
+            "A) Add a full stop at the end.",
+            "B) Remove \"Because.\"",
+            "C) Add an independent clause:<br> \"Because the car broke down, we were late.\"",
+            "D) Change \"broke\" to \"breaks.\""
+          ],
+          "answer": 2,
+          "explanation": "Adding an independent clause completes the thought, turning the dependent clause into a complete sentence."
+        },
+        {
+          "questionNo": 8,
+          "question": "Which sentence uses correct punctuation to avoid a run-on?",
+          "options": [
+            "A) It was raining heavily we decided to stay indoors.",
+            "B) It was raining heavily, so we decided to stay indoors."
+          ],
+          "answer": 1,
+          "explanation": "This sentence correctly uses a comma and the coordinating conjunction \"so\" to join two independent clauses, avoiding a run-on."
+        },
+        {
+          "questionNo": 9,
+          "question": "Identify the complete sentence:",
+          "options": [
+            "A) In the blink.",
+            "B) Faster than lightning.",
+            "C) The cheetah ran across the savanna.",
+            "D) Quickly and gracefully."
+          ],
+          "answer": 2,
+          "explanation": "This is a complete sentence with a subject (The cheetah) and a predicate (ran across the savanna). It expresses a complete thought."
+        },
+        {
+          "questionNo": 10,
+          "question": "Which is a fragment?",
+          "options": [
+            "A) Before the opening credits.",
+            "B) We arrived just in time.",
+            "C) The movie starts at eight.",
+            "D) The theatre was packed."
+          ],
+          "answer": 0,
+          "explanation": "This is a fragment because it's a prepositional phrase that lacks both a subject and a verb. It doesn't express a complete thought on its own."
+        },
+        {
+          "questionNo": 11,
+          "question": "Identify the run-on sentence:",
+          "options": [
+            "A) The sun set the stars came out.",
+            "B) The sun set, and the stars came out.",
+            "C) The sun set. The stars came out."
+          ],
+          "answer": 0,
+          "explanation": "This is a run-on because it combines two independent clauses without proper punctuation or a connecting word."
+        },
+        {
+          "questionNo": 12,
+          "question": "How can you fix this fragment: \"Laughing at the joke\"?",
+          "options": [
+            "A) Add a full stop at the end.",
+            "B) Add a subject:<br> \"The children were laughing at the joke.\"",
+            "C) Remove \"at the joke.\"",
+            "D) Change \"laughing\" to \"laughed.\""
+          ],
+          "answer": 1,
+          "explanation": "Adding a subject (The children) and a helping verb (were) turns this fragment into a complete sentence by providing who is performing the action."
+        },
+        {
+          "questionNo": 13,
+          "question": "Identify the complete sentence:",
+          "options": [
+            "A) Under the old oak tree.",
+            "B) Leaves rustling in the wind.",
+            "C) The squirrel gathered acorns for winter.",
+            "D) With its bushy tail."
+          ],
+          "answer": 2,
+          "explanation": "This is a complete sentence with a subject (The squirrel) and a predicate (gathered acorns for winter). It expresses a complete thought."
+        },
+        {
+          "questionNo": 14,
+          "question": "Which is a fragment?",
+          "options": [
+            "A) The baby cried loudly.",
+            "B) Mom picked her up.",
+            "C) To calm her down.",
+            "D) She stopped crying eventually."
+          ],
+          "answer": 2,
+          "explanation": "This is a fragment because it's an infinitive phrase that lacks a subject and a main verb. It doesn't express a complete thought on its own."
+        },
+        {
+          "questionNo": 15,
+          "question": "Identify the run-on sentence:",
+          "options": [
+            "A) The alarm rang loudly I jumped out of bed.",
+            "B) The alarm rang loudly, and I jumped out of bed."
+          ],
+          "answer": 0,
+          "explanation": "This is a run-on because it combines two independent clauses without proper punctuation or a connecting word."
+        },
+        {
+          "questionNo": 16,
+          "question": "How can you fix this fragment: \"While eating breakfast\"?",
+          "options": [
+            "A) Add a full stop at the end.",
+            "B) Add an independent clause: \"While eating breakfast, I read the newspaper.\"",
+            "C) Remove \"While.\"",
+            "D) Change \"eating\" to \"ate.\""
+          ],
+          "answer": 1,
+          "explanation": "Adding an independent clause completes the thought, turning the dependent clause into a complete sentence."
+        },
+        {
+          "questionNo": 17,
+          "question": "Identify the complete sentence:",
+          "options": [
+            "A) After the long journey.",
+            "B) But happy travellers.",
+            "C) The hikers reached the mountain summit.",
+            "D) Finally, at last."
+          ],
+          "answer": 2,
+          "explanation": "This is a complete sentence with a subject (The hikers) and a predicate (reached the mountain summit). It expresses a complete thought."
+        },
+  
+          {
+            "questionNo": 18,
+            "question": "Which is a fragment?",
+            "options": [
+              "A) The chef prepared a delicious meal.",
+              "B) We enjoyed every bite.",
+              "C) With exotic spices and herbs.",
+              "D) The restaurant was crowded."
+            ],
+            "answer": 2,
+            "explanation": "This is a fragment because it's a prepositional phrase without a subject or verb. It doesn't express a complete thought on its own."
+          },
+          {
+            "questionNo": 19,
+            "question": "Identify the run-on sentence:",
+            "options": [
+              "A) The phone rang I answered it quickly.",
+              "B) The phone rang, so I answered it quickly."
+            ],
+            "answer": 0,
+            "explanation": "This is a run-on because it combines two independent clauses without proper punctuation or a connecting word."
+          },
+          {
+            "questionNo": 20,
+            "question": "Identify the complete sentence:",
+            "options": [
+              "A) During heavy rainstorms.",
+              "B) Lightning flashing across the sky.",
+              "C) Thunder rumbled in the distance.",
+              "D) With loud booms and crashes."
+            ],
+            "answer": 2,
+            "explanation": "This is a complete sentence with a subject (Thunder) and a predicate (rumbled in the distance). It expresses a complete thought."
+          },
+          {
+            "questionNo": 21,
+            "question": "Identify the fragment:",
+            "options": [
+              "A) The students read quietly.",
+              "B) Reading books quietly in the library.",
+              "C) The students are reading books in the library."
+            ],
+            "answer": 1,
+            "explanation": "This is a fragment as it lacks a subject performing the action. To complete it, you might add \"The students are\" to make it a full sentence."
+          },
+          {
+            "questionNo": 22,
+            "question": "Which of the following is a run-on?",
+            "options": [
+              "A) She loves to dance she practices every day.",
+              "B) She loves to dance, so she practices every day.",
+              "C) She practices dance every day."
+            ],
+            "answer": 0,
+            "explanation": "This is a run-on because two independent clauses are joined without punctuation. Adding a comma and conjunction, or a period, would make it correct."
+          },
+          {
+            "questionNo": 23,
+            "question": "Choose the sentence that is a fragment:",
+            "options": [
+              "A) Before I go to bed.",
+              "B) I brush my teeth every night.",
+              "C) I read a book before I sleep."
+            ],
+            "answer": 0,
+            "explanation": "This is a fragment because it does not form a complete thought on its own. It needs additional information, such as \"I brush my teeth before I go to bed.\""
+          },
+          {
+            "questionNo": 24,
+            "question": "Which sentence needs to be split to fix the run-on?",
+            "options": [
+              "A) At the park for a picnic.",
+              "B) We went to the park and had a picnic.",
+              "C) We went to the park we had a picnic there."
+            ],
+            "answer": 2,
+            "explanation": "This is a run-on sentence because it has two complete ideas without proper separation. Adding a period or conjunction would fix it, such as: \"We went to the park, and we had a picnic there.\""
+          },
+          {
+            "questionNo": 25,
+            "question": "Identify the complete sentence:",
+            "options": [
+              "A) Running through the yard.",
+              "B) They are playing outside.",
+              "C) After they ate dinner."
+            ],
+            "answer": 1,
+            "explanation": "Option B has a subject (\"They\") and a verb (\"are playing\") and forms a complete thought. Options A and C are fragments as they don’t give a full idea on their own."
+          }
+        ]
+      }
+    ]
+  }
